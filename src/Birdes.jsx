@@ -20,7 +20,9 @@ function ForestLandingPage3() {
       bird5.style.top = `${value * -1.5}px`;
       bird5.style.left = `${value * 2}px`;
    
-    // btn.style.marginTop = `${value * 1.5}px`;
+      header.style.top = `${value * 0.5}px`;
+   
+      btn.style.marginTop = `${value * 1.5}px`;
     
     }
 
